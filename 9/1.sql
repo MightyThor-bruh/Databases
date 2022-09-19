@@ -1,0 +1,12 @@
+use UNIVER;
+exec sp_helpindex 'AUDITORIUM_TYPE';
+exec sp_helpindex 'AUDITORIUM';
+exec sp_helpindex 'FACULTY';
+exec sp_helpindex 'GROUPA';
+exec sp_helpindex 'PROFESSION';
+exec sp_helpindex 'PROGRESS';
+exec sp_helpindex 'PULPIT';
+exec sp_helpindex 'STUDENT';
+exec sp_helpindex 'SUBJECTT';
+exec sp_helpindex 'TEACHER';
+exec sp_helpindex 'TIMETABLE';
